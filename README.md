@@ -11,6 +11,7 @@ This is a console-based Task Scheduler built in Python that allows users to mana
   - Priority (1-5, higher number means lower priority)
   - Workload (in minutes)
   - Deadline (`YYYY-MM-DD HH:MM`, 24 hour format)
+  - Optional dependencies (ex. folding clothes requires washing them first)
 - Remove tasks once done
 - Input custom availability time ranges
 - Automatically schedules tasks to avoid conflicts
