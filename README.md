@@ -1,4 +1,3 @@
-# python-midterm
 # Task Scheduler
 
 This is a console-based Task Scheduler built in Python that allows users to manage their tasks efficiently based on priority, deadlines, and availability. It automatically schedules tasks into available time slots and lets users view and sort their scheduled tasks.
